@@ -1,2 +1,3 @@
 Navbar added!
 Section added!
+Footer added!
