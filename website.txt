@@ -1,4 +1,5 @@
 Navbar added!
 Section added!
+Login form added!
 Photo gallery added!
 Footer added!
